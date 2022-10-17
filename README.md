@@ -12,10 +12,10 @@
 > - TM - 7为2.08～2.35微米，近-中红外波段。
 ## 特征指数
 - 植被指数
-    > 比值植被指数 RVI=NIR/R  
-    > 归一化植被指数 NDVI=(NIR-R)/(NIR+R)  
-    > 土壤调节植被指数 SAVI=(NIR-R)/(NIR+R+L)*(1+L)  
-    > 三波段梯度差植被指数 TGDVI  
+    > RVI 比值植被指数   
+    > NDVI 归一化植被指数  
+    > SAVI 土壤调节植被指数   
+    > TGDVI 三波段梯度差植被指数 
 - 水体指数   
     > NDWI=(G-NIR)/(G+NIR)  
     > MNDWI=(G-SWIR)/(G+SWIR)  
