@@ -28,7 +28,7 @@
     > BSI 裸土指数  
 ## 阈值分割
 - 迭代法 Literation
-    >1. 计算图像的最大灰度值Ｚmax、最小灰度值Ｚmin，求平均得到初始阈值init_thres。
+>1. 计算图像的最大灰度值Ｚmax、最小灰度值Ｚmin，求平均得到初始阈值init_thres。
     >2. 根据阈值划分图像为目标和背景，并分别计算其灰度均值
     >3. 判断init_thres是否等于thres_tmp，若相等则退出循环，阈值为thres_tmp，否则，将thres_tmp赋给init_thres，转(2)继续执行迭代。
 - 最大类间差法 Otus
