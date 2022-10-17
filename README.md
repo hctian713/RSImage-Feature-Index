@@ -12,6 +12,16 @@
 > - TM - 7为2.08～2.35微米，近-中红外波段。
 ## 特征指数
 - 植被指数
-- > 比值植被指数 RVI=NIR/R
+    > 比值植被指数 RVI=NIR/R
+    > 归一化植被指数 NDVI=(NIR-R)/(NIR+R)
+    > 土壤调节植被指数 SAVI=(NIR-R)/(NIR+R+L)*(1+L)
+    > 三波段梯度差植被指数 TGDVI
 - 水体指数
+    > NDWI=(G-NIR)/(G+NIR)
+    > MNDWI=(G-SWIR)/(G+SWIR)
+    > EWI=(G-(NIR+MIR))/(G+(NIR+MIR))
 - 建筑用地指数
+    > DBI 差值建筑覆盖指数 
+    > NDBI 归一化差值建筑用地指数
+    > NDBBI 归一化差值裸地与建筑用地指数
+    > BSI 裸土指数
