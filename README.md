@@ -12,7 +12,7 @@
     TM - 7为2.08～2.35微米，近-中红外波段。
     
 <!-- ![img](show/tm.png "TM") -->
-<img src="show/tm.png" width="800">
+<img src="show/tm.png" width="900">
 
 ## 特征指数
 - 植被指数
