@@ -11,7 +11,8 @@
     TM - 6为10.40～12.50微米，为热红外波段；  
     TM - 7为2.08～2.35微米，近-中红外波段。
     
-![img](show/tm.png "TM")
+<!-- ![img](show/tm.png "TM") -->
+<img src="show/tm.png" width="800">
 ## 特征指数
 - 植被指数
     > RVI 比值植被指数   
@@ -39,4 +40,5 @@
   >2. 计算类间差
   >3. 取类间差最大的灰度值即为阈值
 
-![img](show/thres.png "index")
+<!-- ![img](show/thres.png "index") -->
+<img src="show/thres.png" width="800">
