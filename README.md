@@ -13,6 +13,7 @@
     
 <!-- ![img](show/tm.png "TM") -->
 <img src="show/tm.png" width="800">
+
 ## 特征指数
 - 植被指数
     > RVI 比值植被指数   
@@ -31,6 +32,7 @@
 
 <!-- ![img](show/index.png "index") -->
 <img src="show/index.png" width="800">
+
 ## 阈值分割
 - 迭代法 Literation
   >1. 计算图像的最大灰度值Ｚmax、最小灰度值Ｚmin，求平均得到初始阈值init_thres。
