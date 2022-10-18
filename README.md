@@ -29,7 +29,8 @@
     > NDBBI 归一化差值裸地与建筑用地指数  
     > BSI 裸土指数  
 
-![img](show/index.png "index")
+<!-- ![img](show/index.png "index") -->
+<img src="show/index.png" width="800">
 ## 阈值分割
 - 迭代法 Literation
   >1. 计算图像的最大灰度值Ｚmax、最小灰度值Ｚmin，求平均得到初始阈值init_thres。
